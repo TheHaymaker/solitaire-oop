@@ -5,7 +5,7 @@
 
   var img = new Image();
 
-  img.src = '../assets/card-sprite.png';
+  img.src = 'https://raw.githubusercontent.com/TheHaymaker/solitaire-oop/master/assets/card-sprite.png';
 
   console.log(img);
 
@@ -16,7 +16,7 @@
 
   var img = new Image();
 
-  img.src = '../assets/card-sprite.png';
+  img.src = 'https://raw.githubusercontent.com/TheHaymaker/solitaire-oop/master/assets/card-sprite.png';
 
   console.log(img);
 
@@ -26,7 +26,7 @@
 
   var img = new Image();
 
-  img.src = '../assets/card-sprite.png';
+  img.src = 'https://raw.githubusercontent.com/TheHaymaker/solitaire-oop/master/assets/card-sprite.png';
 
   console.log(img);
 
